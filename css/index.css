@@ -1,0 +1,30 @@
+
+header{
+text-align: center;
+background-color: blanchedalmond;
+}
+nav{
+    text-align: center;
+    margin-top: 35px;
+    background-color: aquamarine;
+}
+main{
+    margin-top: 50px;
+    text-align: center;
+    background-color: bisque;
+}
+
+div{
+    background-color:gray;
+    align-items:center;
+    padding:0.5%;
+}
+
+img{
+    margin-left: 30%;
+    width: 50%;
+}
+footer{
+    background-color: #48ff;
+    padding: 50px;
+}
