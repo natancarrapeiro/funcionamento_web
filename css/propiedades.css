@@ -1,0 +1,17 @@
+.referencia{
+    background-color: #498de0;
+}
+.propriedade{
+    background-color: #003a6d;
+    color: wheat;
+}
+td{
+    background-color: #c6dbff;
+    border-radius: 5px;
+    border: 2px,black;
+    padding: 5px;
+}
+table{
+    padding: 2px;
+    border: 1.5px,black;
+}
