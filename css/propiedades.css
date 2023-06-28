@@ -6,7 +6,7 @@
     color: wheat;
 }
 td{
-    background-color: #c6dbff;
+    background-color: #c7dbff;
     border-radius: 5px;
     border: 2px,black;
     padding: 5px;
@@ -14,4 +14,13 @@ td{
 table{
     padding: 2px;
     border: 1.5px,black;
+}
+.referencia:hover{
+    background-color:#63f8ec ;
+}
+.propriedade:hover{
+    background-color: #4395f8;
+}
+td:hover{
+    background-color: #d1d16f;
 }
