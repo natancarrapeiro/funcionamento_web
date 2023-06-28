@@ -6,6 +6,7 @@
     color: wheat;
 }
 td{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #c7dbff;
     border-radius: 5px;
     border: 2px,black;
@@ -22,5 +23,7 @@ table{
     background-color: #4395f8;
 }
 td:hover{
+    
+    font-size: +120%;
     background-color: #d1d16f;
 }
