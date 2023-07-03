@@ -12,15 +12,12 @@ Uma das principais características dos frameworks CSS é o seu Sistema de Grids
 
 A grid do Bootstrap, por exemplo, possui 12 colunas e 5 breakpoints responsivos, que são pontos de quebra nos quais o layout será ajustado para atender a diferentes resoluções de tela. Esses breakpoints são:
 
-                         Extra small     Small       Medium      Large       Extra large
-                         <576px          ≥576px      ≥768px      ≥992px      ≥1200px
+                             Extra small     Small       Medium      Large       Extra large
+                             <576px          ≥576px      ≥768px      ≥992px      ≥1200px
+    Max container width      None (auto)     540px       720px       960px       1140px
+    Class prefix             .col-           .col-sm-    .col-md-    .col-lg-    .col-xl-
 
-Max container width      None (auto)     540px       720px       960px       1140px
-
-Class prefix             .col-           .col-sm-    .col-md-    .col-lg-    .col-xl-
-
-# of columns             12
-
+ of columns             12
 Gutter width             30px (15px on each side of a column)
 
 Nestable                 Yes
