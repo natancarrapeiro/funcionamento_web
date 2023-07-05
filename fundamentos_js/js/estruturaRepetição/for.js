@@ -6,3 +6,9 @@ for (idade; idade < 18; idade++) {
         console.log("ano que vem aos 18 anos  você sera considerado adulto ")
     }
 }
+var frutas=["banana","uva","laranja"]
+
+frutas.forEach(element => {
+    
+    console.log(element)
+});
